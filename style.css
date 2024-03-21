@@ -116,6 +116,7 @@ nav button {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-wrap: wrap;
     gap: 16px;
     
 }
@@ -226,6 +227,7 @@ footer .questions {
 
     nav{
         max-width: 90vw;
+        flex-wrap: wrap;
     }
 
     .first {
